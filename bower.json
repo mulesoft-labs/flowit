@@ -1,6 +1,6 @@
 {
   "name": "flowit",
-  "description": "",
+  "description": "Execute and share mule flows in the browser",
   "version": "0.0.1",
   "homepage": "",
   "license": "MIT",

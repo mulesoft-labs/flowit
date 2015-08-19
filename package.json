@@ -2,7 +2,7 @@
   "name": "flowit",
   "private": false,
   "version": "0.0.1",
-  "description": "",
+  "description": "Execute and share mule flows in the browser",
   "repository": "",
   "license": "MIT",
   "devDependencies": {
